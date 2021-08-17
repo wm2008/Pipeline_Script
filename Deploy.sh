@@ -1,2 +1,2 @@
-
-echo "Deploying Build : $(date),  $(time)"
+#!/bin/bash
+echo "Deploying Build : $(date)"
