@@ -1,1 +1,2 @@
-echo "Building the Project $(date),  $(time)" 
+#!/bin/bash
+echo "Building the Project $(date)"
