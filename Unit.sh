@@ -1,1 +1,2 @@
-echo "Running Unit Test Cases : $(date),  $(time)"
+#!/bin/bash
+echo "Running Unit Test Cases : $(date)"
